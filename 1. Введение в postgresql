@@ -1,1 +1,16 @@
+CREATE DATABASE (имя/...)   создать базу данных
+CREATE TABLE ...                      создать таблицу (в скобках описываем столбцы)
+DROP DATABASE ...                   удалить базу данных 
+INSERT INTO ...                          втавить в  таблицу
+VALUES                                       значения
+SELECT                                        выбрать
+*                                                   все столбцы
+FROM                                           из
+ALTER TABLE ...                         изменить таблицу
+ADD COLUMN ...                         добавить колонку
+ADD CONSTRAINT ...                 добавить ограничение
+PRIMARY KEY                            первичный ключ
+FOREIGN KEY( ... )                     внешний ключ
+REFERENCES                             отссылка
+IF EXISTS                                    если существует
 
